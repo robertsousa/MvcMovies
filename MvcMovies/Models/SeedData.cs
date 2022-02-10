@@ -18,35 +18,40 @@ namespace MvcMovies.Models
                         Title = "When Harry Met Sally",
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Genre = "Romantic Comedy",
-                        Price = 7.99M
+                        Price = 7.99M,
+                        Rating = "R"
                     },
                     new Movie
                     {
                         Title = "Ghostburster",
                         ReleaseDate = DateTime.Parse("1984-3-13"),
                         Genre = "Comedy",
-                        Price = 8.99M
+                        Price = 8.99M,
+                        Rating = "A"
                     },
                     new Movie
                     {
                         Title = "Ghostburster 2",
                         ReleaseDate = DateTime.Parse("1986-2-23"),
                         Genre = "Comedy",
-                        Price = 9.99M
+                        Price = 9.99M,
+                        Rating = "R"
                     },
                     new Movie
                     {
                         Title = "Rio Bravo",
                         ReleaseDate = DateTime.Parse("1954-4-15"),
                         Genre = "Wester",
-                        Price = 3.99M
+                        Price = 3.99M,
+                        Rating = "R"
                     },
                     new Movie
                     {
                         Title = "Avenger",
                         ReleaseDate = DateTime.Parse("2020-2-9"),
                         Genre = "Action",
-                        Price = 10.99M
+                        Price = 10.99M,
+                        Rating = "R"
                     }
 
                 );
