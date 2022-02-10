@@ -8,9 +8,9 @@ using MvcMovies.Models;
 
 namespace MvcMovies.Data
 {
-    public class MvcMoviesContext : DbContext
+    public class MvcMovieContext : DbContext
     {
-        public MvcMoviesContext (DbContextOptions<MvcMoviesContext> options)
+        public MvcMovieContext (DbContextOptions<MvcMovieContext> options)
             : base(options)
         {
         }
