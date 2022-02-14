@@ -8,11 +8,8 @@
 
 ![Capturar1](https://user-images.githubusercontent.com/25112571/153849628-83994698-a567-48fe-b51d-86dd24bf3a60.PNG)
 
+![Capturar3](https://user-images.githubusercontent.com/25112571/153850907-1dbf310a-fd5e-4de0-99fd-37bee7811cf1.PNG)
 
-
-##
-#### Dependencias
- 
 ##
 
 #### Bibliotecas utilizadas
